@@ -1,0 +1,16 @@
+2024-04-13 12:04:20,284 :INFO : pytestDemo.test_logging :Information message
+2024-04-13 12:04:20,284 :WARNING : pytestDemo.test_logging :Warning Message
+2024-04-13 12:04:20,284 :ERROR : pytestDemo.test_logging :Major Failure
+2024-04-13 12:04:20,284 :CRITICAL : pytestDemo.test_logging :Critical Error
+2024-04-13 12:05:16,004 :INFO : pytestDemo.test_logging :Information message
+2024-04-13 12:05:16,004 :WARNING : pytestDemo.test_logging :Warning Message
+2024-04-13 12:05:16,004 :ERROR : pytestDemo.test_logging :Major Failure
+2024-04-13 12:05:16,004 :CRITICAL : pytestDemo.test_logging :Critical Failure
+2024-04-13 19:44:52,667 :INFO : pytestDemo.test_logging :Information message
+2024-04-13 19:44:52,668 :WARNING : pytestDemo.test_logging :Warning Message
+2024-04-13 19:44:52,668 :ERROR : pytestDemo.test_logging :Major Failure
+2024-04-13 19:44:52,669 :CRITICAL : pytestDemo.test_logging :Critical Failure
+2024-04-13 21:50:26,540 :INFO : pytestDemo.test_logging :Information message
+2024-04-13 21:50:26,540 :WARNING : pytestDemo.test_logging :Warning Message
+2024-04-13 21:50:26,542 :ERROR : pytestDemo.test_logging :Major Failure
+2024-04-13 21:50:26,542 :CRITICAL : pytestDemo.test_logging :Critical Failure
